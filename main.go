@@ -3,14 +3,14 @@ package main
 import (
 	"os"
 
-	"github.com/create-go-app/fiber-go-template/pkg/configs"
-	"github.com/create-go-app/fiber-go-template/pkg/middleware"
-	"github.com/create-go-app/fiber-go-template/pkg/routes"
-	"github.com/create-go-app/fiber-go-template/pkg/utils"
+	"github.com/fabregas201307/fiber-go-template/pkg/configs"
+	"github.com/fabregas201307/fiber-go-template/pkg/middleware"
+	"github.com/fabregas201307/fiber-go-template/pkg/routes"
+	"github.com/fabregas201307/fiber-go-template/pkg/utils"
 
 	"github.com/gofiber/fiber/v2"
 
-	_ "github.com/create-go-app/fiber-go-template/docs" // load API Docs files (Swagger)
+	_ "github.com/fabregas201307/fiber-go-template/docs" // load API Docs files (Swagger)
 
 	_ "github.com/joho/godotenv/autoload" // load .env file automatically
 )

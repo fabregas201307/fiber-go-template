@@ -1,4 +1,4 @@
-module github.com/create-go-app/fiber-go-template
+module github.com/fabregas201307/fiber-go-template
 
 go 1.19
 

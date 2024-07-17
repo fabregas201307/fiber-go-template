@@ -3,10 +3,10 @@ package controllers
 import (
 	"time"
 
-	"github.com/create-go-app/fiber-go-template/app/models"
-	"github.com/create-go-app/fiber-go-template/pkg/repository"
-	"github.com/create-go-app/fiber-go-template/pkg/utils"
-	"github.com/create-go-app/fiber-go-template/platform/database"
+	"github.com/fabregas201307/fiber-go-template/app/models"
+	"github.com/fabregas201307/fiber-go-template/pkg/repository"
+	"github.com/fabregas201307/fiber-go-template/pkg/utils"
+	"github.com/fabregas201307/fiber-go-template/platform/database"
 	"github.com/gofiber/fiber/v2"
 	"github.com/google/uuid"
 )
