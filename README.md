@@ -32,7 +32,7 @@ cgapp create
 make docker.run
 ```
 
-5. Go to API Docs page (Swagger): [127.0.0.1:5000/swagger/index.html](http://127.0.0.1:5000/swagger/index.html)
+5. Go to API Docs page (Swagger): [127.0.0.1:5008/swagger/index.html](http://127.0.0.1:5000/swagger/index.html)
 
 ![Screenshot](https://user-images.githubusercontent.com/11155743/112715187-07dab100-8ef0-11eb-97ea-68d34f2178f6.png)
 
